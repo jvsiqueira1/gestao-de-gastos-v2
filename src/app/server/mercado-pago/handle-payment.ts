@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 import "server-only";
 
 import { PaymentResponse } from "mercadopago/dist/clients/payment/commonTypes";

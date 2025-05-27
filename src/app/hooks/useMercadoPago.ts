@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useEffect } from "react";
 import { initMercadoPago } from "@mercadopago/sdk-react";
 import { useRouter } from "next/navigation";
